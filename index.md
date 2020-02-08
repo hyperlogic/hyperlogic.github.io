@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Projects
+
+# High Fidelity
+
+# 
 
 You can use the [editor on GitHub](https://github.com/hyperlogic/hyperlogic.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

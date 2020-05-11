@@ -19,7 +19,7 @@ I developed a mobile game inspired by the artwork of [M.C. Escher](https://mcesc
 Not being a trained mathematician, learning the underlying theory was challenging but rewarding.
 Using my research, I created custom tools and artwork to complete this project in 2010.
 
-Recently, I recompiled the old C++ code into JavaScript using emscripten, this game is now fully playable in your browser here.
+Recently, I recompiled the old C++ code into JavaScript using emscripten, this game is now fully playable in your browser [here](circull/circull.html).
 
 [![Circull](images/circull.PNG)](circull/circull.html)
 
@@ -27,7 +27,7 @@ Recently, I recompiled the old C++ code into JavaScript using emscripten, this g
 
 In 2012, I was one of the lucky backers of the original Oculus Rift kickstarter.
 I was so excited about the potential for developing software while in VR.
-I created a custom terminal application for the DK1 running on Apple macOS. I learned some cool techniques to maximize the quality and legibility of text in VR.
+I created a custom [terminal application](https://github.com/hyperlogic/riftty) for the DK1 running on Apple macOS. I learned some cool techniques to maximize the quality and legibility of text in VR.
 As well as some important lessons in ergonomics.
 While it sounds fun to edit your code on a 50 foot billboard sized screen, in practice it can lead to a stiff neck.
 

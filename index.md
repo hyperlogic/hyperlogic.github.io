@@ -31,7 +31,7 @@ I created a custom terminal application for the DK1 running on Apple macOS. I le
 As well as some important lessons in ergonomics.
 While it sounds fun to edit your code on a 50 foot billboard sized screen, in practice it can lead to a stiff neck.
 
-[![Riftty](images/riffty-eye.png)](https://github.com/hyperlogic/riftty)
+[![Riftty](images/riftty-eye.png)](https://github.com/hyperlogic/riftty)
 
 ## Abaci
 

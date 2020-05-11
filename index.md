@@ -19,7 +19,7 @@ I developed a mobile game inspired by the artwork of [M.C. Escher](https://mcesc
 Not being a trained mathematician, learning the underlying theory was challenging but rewarding.
 Using my research, I created custom tools and artwork to complete this project in 2010.
 
-Recently, I recompiled the old C++ code into JavaScript using emscripten, this game is now fully playable in your browser [here](circull/circull.html).
+Recently, I recompiled the old C++ code into JavaScript using [emscripten](https://emscripten.org/), this game is now fully playable in your browser [here](circull/circull.html).
 
 [![Circull](images/circull.PNG)](circull/circull.html)
 

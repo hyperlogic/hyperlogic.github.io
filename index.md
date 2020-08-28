@@ -5,8 +5,6 @@
 I’m a software engineer based in San Francisco, CA specializing in developing technology for video games and virtual reality.
 My passion is applying my experience in real-time 3D graphics and animation to emerging platforms such as VR and spatial computing.
 
-If this is something you’re working on I'd love to [hear](mailto:ajt.hyperlogic@gmail.com) from you.
-
 # Professional Projects
 
 My professional work experience is available here in [PDF form](files/Resume_of_Anthony_Thibault.pdf) or via [Google Docs](https://docs.google.com/document/d/1E19TSGQWVu8wrfGwm44TjcaXZLOd2wm9-tLb0BXHnSQ).

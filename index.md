@@ -19,9 +19,12 @@ I've always been fascinated by Photogrammetry and 3d scanning technology, but af
 Specifically, I wrote a 3D Gaussian Splatting renderer capable of viewing these scenes in VR.
 There's something magical about viewing these scenes in a VR headset, it gives a sense of being in a real space.
 These scenes are pretty easy to capture now with a mobile phone, using apps like [Luma AI](https://lumalabs.ai/) or [Poly-Cam](https://poly.cam/tools/gaussian-splatting).
-Here's a quick demo of Splatapult.
+Here's a quick demo of [Splatapult](https://github.com/hyperlogic/splatapult).
 
 {% include youtube.html id="18DuNJRZbzQ" %}
+
+[Splatapult](https://github.com/hyperlogic/splatapult) is open source under the MIT license.
+It's written in C++ using OpenGL and OpenXR.
 
 ## Circull
 

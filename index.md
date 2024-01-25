@@ -11,6 +11,18 @@ My professional work experience is available here in [PDF form](files/Resume_of_
 
 # Personal projects
 
+## Splatapult
+
+[![Splatapult](images/splatapult.png)](https://github.com/hyperlogic/splatapult)
+
+I've always been fascinated by Photogrammetry and 3d scanning technology, but after seeing the recent success of AI/ML techniques, such as NeRF and Instant-NGP, I decided to do my own R&D in this space.
+Specifically, I wrote a 3D Gaussian Splatting renderer capable of viewing these scenes in VR.
+There's something magical about viewing these scenes in a VR headset, it gives a sense of being in a real space.
+These scenes are pretty easy to capture now with a mobile phone, using apps like [Luma AI](https://lumalabs.ai/) or [Poly-Cam](https://poly.cam/tools/gaussian-splatting).
+Here's a quick demo of Splatapult.
+
+{% include youtube.html id="18DuNJRZbzQ" %}
+
 ## Circull
 
 I developed a mobile game inspired by the artwork of [M.C. Escher](https://mcescher.com/gallery/most-popular/), specifically his application of tiling figures in hyperbolic geometry.

@@ -24,7 +24,7 @@ Here's a quick demo of [Splatapult](https://github.com/hyperlogic/splatapult).
 {% include youtube.html id="18DuNJRZbzQ" %}
 
 [Splatapult](https://github.com/hyperlogic/splatapult) is open source under the MIT license.
-It's written in C++ using OpenGL and OpenXR.
+It's written in C++ using OpenGL and OpenXR.  [Windows binaries zip](files/splatapult-0.1-x64.zip).
 
 ## Circull
 
